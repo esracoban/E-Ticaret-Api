@@ -31,4 +31,4 @@ temel url: https://api.escuelajs.co/api/v1/
 
 # E-Ticaret-Api
 
-![](e-ticaret-screen)
+![](e-ticaret-screen.gif)
